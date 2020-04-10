@@ -1,2 +1,2 @@
 # PythonWorkshop
-PSA 8 Day Python , Docker and Microservices workshop
+PSA Koblenz 8 Day Python , Docker and Microservices workshop
